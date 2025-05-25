@@ -1,8 +1,8 @@
 # Exercise-14-Capstone-Project
 # Capstone Project - Personal Finance Categorization and Summary Automation
 ~~~
-Name : M.JOHN PALL
-Reg. No : 212224040140 
+Name : Syed Abu Hanifa. L
+Reg. No : 212224040346 
 ~~~
 
 ## Aim
