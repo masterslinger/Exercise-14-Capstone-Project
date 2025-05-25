@@ -1,8 +1,8 @@
 # Exercise-14-Capstone-Project
 # Capstone Project - Personal Finance Categorization and Summary Automation
 ~~~
-Name : W Allen Johnston Ozario  
-Reg. No : 21222411004  
+Name : M.JOHN PALL
+Reg. No : 212224040140 
 ~~~
 
 ## Aim
